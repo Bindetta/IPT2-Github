@@ -8,4 +8,7 @@ public class Caluclator{
 	System.out.println("Division" + div(a,b));
 	System.out.println("Modulus" + mod(a,b));
 	}
+	public static int add(a, b){
+		return a + b;
+	}
 }
