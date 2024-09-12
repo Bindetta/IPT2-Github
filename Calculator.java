@@ -17,4 +17,7 @@ public class Caluclator{
 	public static int multi(a, b){
 		return a * b;
 	}
+	public static int div(a, b){
+		return a / b;
+	}
 }
