@@ -11,4 +11,7 @@ public class Caluclator{
 	public static int add(a, b){
 		return a + b;
 	}
+	public static int subtract(a, b){
+		return a - b;
+	}
 }
