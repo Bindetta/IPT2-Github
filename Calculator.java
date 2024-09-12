@@ -20,4 +20,7 @@ public class Caluclator{
 	public static int div(a, b){
 		return a / b;
 	}
+	public static int mod(a, b){
+		return a % b;
+	}
 }
